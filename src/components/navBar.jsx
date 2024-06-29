@@ -60,9 +60,11 @@ function NavBar({ children }) {
               <Link href={"#features"}>
                 <div className=" login-btn-class">Features</div>
               </Link>
+              <Link target="_blank" href={"https://discord.com/oauth2/authorize?client_id=1256480590539132972"}>
               <div className="px-6 py-4 btn-primary-class cursor-pointer ">
                 Give it a Go!
               </div>
+              </Link>
             </div>
           </div>
         </div>
