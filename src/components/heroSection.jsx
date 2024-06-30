@@ -33,7 +33,7 @@ function HeroSection() {
                     >
                       <Link target="_blank" href={"https://discord.com/oauth2/authorize?client_id=1256480590539132972"}>
                       <div className="text-[#fc907e] bg-gradient-to-br font-bold from-[#fc907e] to-[#9f6eed] bg-clip-text text-transparent transition-all  group-hover:text-white duration-300 ease-linear text-xs md:text-sm lg:text-sm ">
-                      Your turn to chat with Narada
+                      Chat with Narada now.
                       </div>
                       </Link>
                     </div>
